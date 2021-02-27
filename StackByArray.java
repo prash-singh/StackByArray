@@ -1,5 +1,3 @@
-package stack.array;
-
 public class StackByArray {
     int arr[];
     int top;
