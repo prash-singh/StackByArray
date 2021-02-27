@@ -1,4 +1,3 @@
-package stack.array;
 import java.util.*;
 
 public class StackByArrayMain {
