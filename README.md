@@ -1,2 +1,2 @@
-# DataStructure
-Solving DataStructure and Algorithm concept based problems using JAVA
+# Stack using Array
+Implimenting StackByArray concept in JAVA
